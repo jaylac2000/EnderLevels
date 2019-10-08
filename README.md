@@ -1,7 +1,7 @@
 # EnderLevels
 Trying to do an edit 
 
-Owners twitter below
+Owners twitter:
 **[Twitter](https://twitter.com/dimay_johanna)**
 
 ### Features
