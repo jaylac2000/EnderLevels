@@ -1,6 +1,8 @@
 # EnderLevels
 Trying to do an edit 
 
+Don't blame me if it doesn't work. Just gonna try and bring it up to date
+
 Owners twitter:
 **[Twitter](https://twitter.com/dimay_johanna)**
 
