@@ -82,7 +82,7 @@ class Main extends PluginBase implements Listener{
     public function initializeLevel($player){
         $exp = $this->getExp($player);
         $expn = $this->getExpNeededTLU($player);
-        if($this->getLevel($player) == 30){
+        if($this->getLevel($player) == 10000){
             $player->sendMessage(C::ITALIC. C::RED. "You have already reached the max level, silly!");
         }
         if($exp >= $expn){
